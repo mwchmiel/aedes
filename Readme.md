@@ -1,7 +1,7 @@
 <ins>This repo contains raw data in support of:</ins>
 
- Chmielewski et al 2010 **Estimating the per Capita Rate of Population Change: How Well Do
-Life-History Surrogates Perform?** *Annals of the Entomological Society of America*, Volume 103, Issue 5, 1 September 2010, Pages 734–741, https://doi.org/10.1603/AN09162
+ Chmielewski *et al.* 2010 **Estimating the per Capita Rate of Population Change: How Well Do
+Life-History Surrogates Perform?** *Annals of the Entomological Society of America*, Volume 103, Issue 5, 1 September 2010, Pages 734â€“741, https://doi.org/10.1603/AN09162
 
 <ins>A few details:</ins>
 
